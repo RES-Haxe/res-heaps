@@ -1,0 +1,14 @@
+{
+  "name": "res-heaps",
+  "license": "MIT",
+  "tags": [],
+  "description": "Heaps bios for RES",
+  "version": "0.1.0",
+  "classPath": ".",
+  "releasenote": "Initial release",
+  "contributors": ["miriti"],
+  "dependencies": {
+    "res": "",
+    "heaps": ""
+  }
+}
